@@ -1,4 +1,6 @@
 #include <Python.h>
+#include <floatObject.h>
+
 /**
  * print_python_list - prints some basic info about Python lists
  * @p: pointer to PyObject
