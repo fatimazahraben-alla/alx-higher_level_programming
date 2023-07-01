@@ -80,7 +80,7 @@ class Square:
 
     def __gt__(self, other):
         """
-        Check if the area of the current Square
+        Check if the area of the current Squar
 
         Args:
             other (Square): Another Square instance.
