@@ -10,7 +10,7 @@ def is_safe(board, row, col):
     Check if a queen can be placed on board[row][col]
 
     Arguments:
-    board -- the current state of the chessboa
+    board -- the current state of the chessboard
     row -- the row to check
     col -- the column to check
 
