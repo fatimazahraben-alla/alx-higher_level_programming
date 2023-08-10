@@ -8,6 +8,7 @@ Welcome to the AirBnB clone project!
 
 This is the first step towards building full web application **the AirBnB clone**
 This first step is very important to manage the objects of our project, so that we can:
+
 	- Create a new object (ex: a new User or a new Place)
 	* Retrieve an object from a file, a database etc…
 	+ Do operations on objects (count, compute stats, etc…)
