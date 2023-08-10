@@ -13,6 +13,7 @@ This first step is very important to manage the objects of our project, so that 
 	- Retrieve an object from a file, a database etc…
 
 	- Do operations on objects (count, compute stats, etc…)
+
 	- Update attributes of an object
 	- Destroy an object
 
